@@ -47,4 +47,4 @@ Neste perfil, você encontrará alguns dos meus projetos pessoais e trabalhos de
 
 ##
 
-![Snake animation](https://github.com/seu-usuário-aqui/cedelecrodio/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/seu-usuário-aqui/cedelecrodio/blob/output/github-contribution-grid-snake.svg) -->
