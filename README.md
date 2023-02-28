@@ -6,7 +6,7 @@ Sou desenvolvedor web e estou sempre em busca de novos desafios e aprendizados n
 
 Neste perfil, você encontrará alguns dos meus projetos pessoais e trabalhos desenvolvidos em equipe. Além disso, também compartilho meus estudos e experimentações com as tecnologias que estou aprendendo no momento.
 
-<div>
+<div style="display: inline_block">
 <a href="https://github.com/cedelecrodio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedelecrodio&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cedelecrodio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs,prs"/>
